@@ -2,50 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="204731b1-b323-4180-927f-1f4fc74db85d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Corpora.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/magento2plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/css/.sass-cache/0dd5d6a154fa1e7e9065e1b3328cb6ab8041d82c/style.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/css/.sass-cache/e0b0e9e7cc43109cc2c2e925f71d4bd0fb5199e6/style.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/css/mediaQuery.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/css/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/css/owl.theme.default.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/css/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/css/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/img/gallery/gallery-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/img/gallery/gallery-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/img/gallery/gallery-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/img/gallery/gallery-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/img/gallery/gallery-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/img/gallery/gallery-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/img/gallery/gallery-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/img/gallery/gallery-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/img/gallery/gallery-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/img/item-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/img/item-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/img/nature.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/js/custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/js/gallery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/js/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/js/jquery.ripples-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/js/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/js/propper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/js/typed.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +36,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/vendor/img/gallery" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -105,18 +63,41 @@
       <workItem from="1600989098340" duration="788000" />
       <workItem from="1601009417839" duration="924000" />
       <workItem from="1601010403546" duration="5535000" />
-      <workItem from="1601017001429" duration="8875000" />
+      <workItem from="1601017001429" duration="9176000" />
     </task>
+    <task id="LOCAL-00001" summary="we added nav,carousel,about and 3d products section">
+      <created>1601026086883</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601026086883</updated>
+    </task>
+    <task id="LOCAL-00002" summary="we added nav,carousel,about and 3d products section">
+      <created>1601026104989</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601026104989</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="we added nav,carousel,about and 3d products section" />
+    <option name="LAST_COMMIT_MESSAGE" value="we added nav,carousel,about and 3d products section" />
   </component>
   <component name="WindowStateProjectService">
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601019742402">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1601019742402" />
+    <state x="303" y="0" key="CommitChangelistDialog2" timestamp="1601026103339">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="303" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601026103339" />
     <state x="352" y="142" key="EditFileWatcherDialog" timestamp="1599501108819">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
