@@ -664,8 +664,61 @@ testomnials
     font-size: 14px;
     color: #878787;
   }
+/*blog-post*/
+$animation-easing: cubic-bezier(0.46, 0.03, 0.52, 0.96);
+$color-yellow: $mainColor;
+
+@keyframes removeLine {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(105%);
+  }
+}
+
+@keyframes imageAppears {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes contentBlockAppears {
+  0% {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes titleBorderAppears {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+@keyframes borderAppears {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(20px);
+  }
+}
 
 
+
+
+/*Media query*/
 @media (min-width: 768px) and (max-width: 999px){
   .navbar-light .navbar-nav .nav-link{
     margin-left: 20px;

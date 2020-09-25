@@ -52,6 +52,8 @@ $( document ).ready(function() {
             swiper: galleryThumbs
         }
     });
-
+    $('.carousel').carousel({
+        interval: 800
+    })
 
 });
