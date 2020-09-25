@@ -666,64 +666,21 @@ testomnials
   }
 
 
-@media (max-width: 480px) {
-  .about{
-    padding: 50px 0;
-  }
+@media (min-width: 768px) and (max-width: 999px){
   .navbar-light .navbar-nav .nav-link{
     margin-left: 20px;
   }
-  .carousel-item{
-    height: 40vh;
+  .testimonial-section .quote p{
+    line-height: 33px;
   }
-  .about .about-caption a{
-    margin-bottom: 20px;
+  .about .about-caption h1{
+    font-size: 30px;
   }
-  .about .about-img img {
-    margin-top: 30px;
-  }
-
-  .carousel-item .carousel-caption {
-    display: block !important;
-    h2 {
-      display: block !important;
-      position: absolute;
-      left: 22%;
-      top: 147px;
-      text-transform: capitalize;
-    }
-    p{
-      display: none;
-    }
-  }
-
-
-  .testimonial-section .quote p {
-    font-size: 16px;
-    font-weight: 300;
-    line-height: 1.8;
-    font-style: italic;
-    margin: 0;
-  }
-  .testimonial .name {
-    font-weight: bold;
-    font-size: 16px;
-    letter-spacing: 0.04em;
-    line-height: 35px;
-    text-align: left;
-  }
-  .testimonial .designation {
-    font-size: 14px;
-    letter-spacing: 0.04em;
-    text-align: left;
-    color: #fff;
-    opacity: 0.65;
-  }
-  .gallery{
-    height: 42vh;
+  .about .about-img img{
+    margin-top: 50px;
   }
 }
-@media (max-width: 767px) {
+@media (min-width: 481px) and (max-width: 767px) {
   .about{
     padding: 50px 0;
   }
@@ -739,17 +696,15 @@ testomnials
   .about .about-img img {
     margin-top: 30px;
   }
-  .gallery{
-    height: 42vh;
-  }
 
   .carousel-item .carousel-caption {
     display: block !important;
     h2 {
       display: block !important;
       position: absolute;
-      left: 22%;
-      top: 147px;
+      left: 30%;
+      top: 140px;
+      font-size: 65px;
       text-transform: capitalize;
     }
     p{
@@ -779,6 +734,125 @@ testomnials
     opacity: 0.65;
   }
   .gallery{
+    height: 66vh;
+  }
+}
+@media (min-width: 401px) and (max-width: 480px) {
+  .about{
+    padding: 50px 0;
+  }
+  .navbar-light .navbar-nav .nav-link{
+    margin-left: 20px;
+  }
+  .carousel-item{
+    height: 40vh;
+  }
+  .about .about-caption a{
+    margin-bottom: 20px;
+  }
+  .about .about-img img {
+    margin-top: 30px;
+  }
+
+  .carousel-item .carousel-caption {
+    display: block !important;
+    h2 {
+      display: block !important;
+      position: absolute;
+      left: 19%;
+      top: 147px;
+      text-transform: capitalize;
+    }
+    p{
+      display: none;
+    }
+  }
+
+
+  .testimonial-section .quote p {
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.8;
+    font-style: italic;
+    margin: 0;
+  }
+  .testimonial .name {
+    font-weight: bold;
+    font-size: 16px;
+    letter-spacing: 0.04em;
+    line-height: 35px;
+    text-align: left;
+  }
+  .testimonial .designation {
+    font-size: 14px;
+    letter-spacing: 0.04em;
+    text-align: left;
+    color: #fff;
+    opacity: 0.65;
+  }
+  .gallery{
     height: 42vh;
   }
+  .about .about-img img{
+    margin-top: 30px;
+  }
+}
+@media (max-width: 400px) {
+  .navbar-light .navbar-nav .nav-link{
+    margin-left: 20px;
+  }
+  .carousel-item{
+    height: 60vh;
+  }
+  .about .about-caption h1{
+    font-size: 30px;
+  }
+  .carousel-item .carousel-caption h2 {
+    display: block !important;
+    position: absolute;
+    left: 16%;
+    top: 139px;
+    text-transform: capitalize;
+  }
+  .testimonial-section .quote p {
+    font-size: 12px;
+    font-weight: 300;
+    font-style: italic;
+    line-height: 15px;
+    margin: 0;
+  }
+  .testimonial .name {
+    font-weight: bold;
+    font-size: 12px;
+    letter-spacing: 0.04em;
+    line-height: 35px;
+    text-align: left;
+  }
+  .testimonial .designation {
+    font-size: 12px;
+    letter-spacing: 0.04em;
+    text-align: left;
+    color: #fff;
+    opacity: 0.65;
+  }
+  .about .about-img img{
+    margin-top: 30px;
+  }
+  .carousel-item .carousel-caption {
+    display: block !important;
+    h2 {
+      display: block !important;
+      position: absolute;
+      left: 22%;
+      font-size: 40px;;
+      text-transform: capitalize;
+    }
+    p{
+      display: none;
+    }
+  }
+  .gallery{
+    height: 55vh;
+  }
+
 }
