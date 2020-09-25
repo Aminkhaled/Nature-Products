@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="204731b1-b323-4180-927f-1f4fc74db85d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Corpora.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/magento2plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/css/.sass-cache/0dd5d6a154fa1e7e9065e1b3328cb6ab8041d82c/style.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/css/.sass-cache/e0b0e9e7cc43109cc2c2e925f71d4bd0fb5199e6/style.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/css/mediaQuery.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/css/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/css/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/css/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/gallery/gallery-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/gallery/gallery-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/gallery/gallery-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/gallery/gallery-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/gallery/gallery-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/gallery/gallery-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/gallery/gallery-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/gallery/gallery-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/gallery/gallery-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/item-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/item-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/nature.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/js/gallery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/js/jquery.ripples-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/js/propper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/js/typed.min.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hC2YH23ad1Ubk25AczurLW12vZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vendor/img/gallery" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Spotline\Corpora\vendor\img\gallery" />
+      <recent name="F:\Spotline\Corpora\vendor\img" />
+      <recent name="F:\Spotline\Corpora\vendor\js" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="204731b1-b323-4180-927f-1f4fc74db85d" name="Default Changelist" comment="" />
+      <created>1599500799274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599500799274</updated>
+      <workItem from="1599500800379" duration="3020000" />
+      <workItem from="1599544801550" duration="1107000" />
+      <workItem from="1599545977208" duration="578000" />
+      <workItem from="1599553524016" duration="13691000" />
+      <workItem from="1599641547328" duration="95000" />
+      <workItem from="1600989098340" duration="788000" />
+      <workItem from="1601009417839" duration="924000" />
+      <workItem from="1601010403546" duration="5535000" />
+      <workItem from="1601017001429" duration="8875000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601019742402">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1601019742402" />
+    <state x="352" y="142" key="EditFileWatcherDialog" timestamp="1599501108819">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="352" y="142" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1599501108819" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1599545918433">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599545918433" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1601009753295">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1601009753295" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1601017634419">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1601017634419" />
+  </component>
+</project>

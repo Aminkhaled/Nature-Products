@@ -1,0 +1,253 @@
+@import url("https://fonts.googleapis.com/css2?family=Ruthie&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap");
+*, body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+.loader {
+  background-color: deepskyblue !important;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  left: 0;
+  z-index: 5555;
+  top: 0; }
+  .loader svg {
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    display: inline-block;
+    position: absolute;
+    left: 45%;
+    top: 250px; }
+  .loader .made-with-love {
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 10px;
+    font-family: arial;
+    color: #fff; }
+    .loader .made-with-love i {
+      font-style: normal;
+      color: #F50057;
+      font-size: 14px;
+      position: relative;
+      top: 2px; }
+    .loader .made-with-love a {
+      color: #fff;
+      text-decoration: none; }
+      .loader .made-with-love a:hover {
+        text-decoration: underline; }
+
+/*
+===================
+  Navs
+===================
+
+*/
+.navbar {
+  padding: 22px 0;
+  z-index: 3333;
+  border-bottom: none !important;
+  background-color: deepskyblue !important; }
+  .navbar .navbar-brand {
+    margin-left: 40px; }
+    .navbar .navbar-brand h2 {
+      font-size: 25px;
+      color: white;
+      font-weight: 700;
+      text-transform: uppercase; }
+  .navbar ul li a {
+    color: #fff !important;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: all 1s ease-in-out;
+    letter-spacing: 1px;
+    font-size: 16px; }
+    .navbar ul li a:hover {
+      color: deepskyblue !important;
+      background-color: #FFFFFF; }
+  .navbar .navbar-toggler {
+    border: 1px solid #fff !important;
+    transition: all 0.5s ease-out;
+    margin-right: 20px;
+    color: white; }
+    .navbar .navbar-toggler .navbar-toggler-icon {
+      background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(250, 250, 250, 0.8)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E"); }
+    .navbar .navbar-toggler .span {
+      color: white; }
+    .navbar .navbar-toggler:hover {
+      background-color: deepskyblue !important; }
+  .navbar .location {
+    border-radius: 50px;
+    border: 1px solid white;
+    padding: 10px; }
+
+.navbar-dark .navbar-brand {
+  margin-left: 25px; }
+
+/*
+===============
+Carousel
+===============
+*/
+.carousel-item {
+  height: 100vh;
+  min-height: 350px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
+  .carousel-item .carousel-caption {
+    position: relative;
+    left: 0;
+    top: 0; }
+    .carousel-item .carousel-caption h2 {
+      position: absolute;
+      left: 40%;
+      top: 200px;
+      text-transform: capitalize; }
+    .carousel-item .carousel-caption p {
+      position: absolute;
+      left: 30%;
+      top: 280px;
+      width: 40%; }
+
+.item-1 {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.4)), url("../img/item-1.jpg") no-repeat center center scroll; }
+
+.item-2 {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.4)), url("../img/item-2.jpg") no-repeat center center scroll; }
+
+.item-3 {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.4)), url("../img/item-1.jpg") no-repeat center center scroll; }
+
+/*
+**********
+about-us
+**********
+*/
+.about {
+  padding: 100px 0; }
+  .about .about-caption {
+    text-align: center;
+    margin-top: 50px; }
+    .about .about-caption h1 {
+      position: relative;
+      top: 0;
+      left: 0;
+      font-size: 35px;
+      line-height: 10px;
+      margin-bottom: 50px;
+      text-transform: capitalize;
+      font-weight: 700;
+      transition: all 1s ease-in-out; }
+      .about .about-caption h1:before {
+        content: '';
+        position: absolute;
+        top: -40px;
+        left: 0;
+        background-color: deepskyblue !important;
+        width: 94%;
+        height: 5px; }
+      .about .about-caption h1:hover {
+        color: deepskyblue !important;
+        transform: scale(1.1); }
+    .about .about-caption p {
+      margin-bottom: 30px;
+      transition: all 1s ease-in-out; }
+      .about .about-caption p:hover {
+        color: deepskyblue !important;
+        transform: scale(1.1); }
+    .about .about-caption a {
+      color: #FFFFFF;
+      font-size: 20px;
+      padding: 15px 30px;
+      background-color: deepskyblue !important;
+      border-radius: 30px;
+      text-transform: capitalize;
+      font-weight: 700; }
+  .about .about-img img {
+    width: 100%; }
+
+/*
+
+3d gallery
+*/
+.gallery {
+  padding: 40px 0;
+  background: linear-gradient(rgba(0, 191, 255, 0.7), rgba(1, 192, 255, 0.5)), url("../img/gallery/gallery-bg.jpg") no-repeat fixed;
+  background-size: cover;
+  height: 85vh; }
+  .gallery h2 {
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 30px;
+    color: white; }
+  .gallery .carousel-gallery {
+    padding: 20px;
+    perspective: 500px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center; }
+    .gallery .carousel-gallery > * {
+      flex: 0 0 auto; }
+    .gallery .carousel-gallery figure {
+      margin: 0;
+      width: 40%;
+      transform-style: preserve-3d;
+      transition: transform 0.5s; }
+      .gallery .carousel-gallery figure img {
+        width: 100%;
+        box-sizing: border-box;
+        padding: 0 0px; }
+        .gallery .carousel-gallery figure img:not(:first-of-type) {
+          position: absolute;
+          left: 0;
+          top: 0; }
+    .gallery .carousel-gallery nav {
+      display: flex;
+      justify-content: center;
+      margin: 20px 0 0; }
+      .gallery .carousel-gallery nav button {
+        flex: 0 0 auto;
+        margin: 0 5px;
+        cursor: pointer;
+        color: #FFFFFF;
+        background: none;
+        border: 1px solid #FFFFFF;
+        letter-spacing: 1px;
+        padding: 5px 10px; }
+
+@media (max-width: 480px) {
+  .about {
+    padding: 50px 0; }
+
+  .gallery {
+    height: 50vh; }
+
+  .navbar-light .navbar-nav .nav-link {
+    margin-left: 20px; }
+
+  .carousel-item {
+    height: 50vh; }
+
+  .about .about-caption a {
+    margin-bottom: 20px; }
+
+  .about .about-img img {
+    margin-top: 30px; }
+
+  .carousel-item .carousel-caption {
+    display: block !important; }
+    .carousel-item .carousel-caption h2 {
+      display: block !important;
+      position: absolute;
+      left: 22%;
+      top: 147px;
+      text-transform: capitalize; }
+    .carousel-item .carousel-caption p {
+      display: none; } }
+
+/*# sourceMappingURL=style.css.map */
