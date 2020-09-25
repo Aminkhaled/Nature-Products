@@ -10,7 +10,7 @@ $( document ).ready(function() {
 
     setTimeout(function (){
         $('.loader').remove();
-    },10000)
+    },5000)
 
 
 });
