@@ -169,64 +169,52 @@ Carousel
 about-us
 **********
 */
-.about{
-  padding: 100px 0;
-  .about-caption{
-    text-align: center;
-    margin-top: 50px;
-    a{
-      margin-bottom: 20px;
-    }
-   h1{
-     position: relative;
-     top: 0;
-     left: 0;
-     font-size: 35px;
-     line-height: 10px;
-     margin-bottom: 50px;
-     text-transform: capitalize;
-     font-weight: 700;
-     transition: all 1s ease-in-out;
-
-     &:before{
-       content: '';
-       position: absolute;
-       top: -40px;
-       left: 0;
-       background-color: $mainColor;
-       width: 94%;
-       height: 5px;
-     }
-     &:hover{
-       color: $mainColor;
-       transform: scale(1.1);
-     }
-   }
-    p{
-      margin-bottom: 30px;
-      transition: all 1s ease-in-out;
-      &:hover{
-        color: $mainColor;
-        transform: scale(1.1);
-      }
-    }
-    a{
-      color: #FFFFFF;
-      font-size: 20px;
-      padding: 15px 30px;
-      background-color: $mainColor;
-      border-radius: 30px;
-      text-transform: capitalize;
-      font-weight: 700;
-    }
-  }
+.about-us{
+  padding: 50px 0;
   .about-img{
+    position: relative;
+    width: 100%;
     img{
       width: 100%;
+      position: absolute;
+      z-index: 20;
+    }
+    .background-img{
+      width: 121%;
+      background: deepskyblue;
+      position: absolute;
+      left: -92px;
+      content: "'";
+      height: 100px;
+      top: 140px;
+      z-index: 1;
     }
   }
-
+   .about-caption{
+     text-align: center;
+     h2{
+       font-size: 40px;
+       font-weight: 700;
+       color: deepskyblue;
+     }
+     p{
+       margin-left: 20px;
+       margin-top: 20px;
+       margin-bottom: 35px;
+     }
+     a.about-btn{
+       color: white;
+       padding: 15px 30px;
+       background-color: deepskyblue;
+       border-radius: 30px;
+     }
+   }
 }
+
+
+
+
+
 /*
 
 3d gallery
@@ -923,6 +911,18 @@ textarea {
   margin-left: -25px;
 }
 /*Media query*/
+@media (min-width: 1000px) and (max-width: 1199px){
+  .about-us .about-img .background-img {
+    width: 130%;
+    background: deepskyblue;
+    position: absolute;
+    left: -92px;
+    content: "'";
+    height: 100px;
+    top: 140px;
+    z-index: 1;
+  }
+}
 @media (min-width: 768px) and (max-width: 999px){
   .navbar-light .navbar-nav .nav-link{
     margin-left: 20px;
@@ -943,6 +943,22 @@ textarea {
   }
   footer .footer-social-icon{
     margin-bottom: 25px;
+  }
+  .about-us .about-img img {
+    width: 100%;
+    position: absolute;
+    z-index: 20;
+    top: 190px;
+  }
+  .about-us .about-img .background-img {
+    width: 139%;
+    background: deepskyblue;
+    position: absolute;
+    left: -92px;
+    content: "'";
+    height: 100px;
+    top: 260px;
+    z-index: 1;
   }
 }
 @media (min-width: 481px) and (max-width: 767px) {
@@ -1005,6 +1021,20 @@ textarea {
     padding-left: 15px;
     display: inline-block;
     margin-bottom: 25px;
+  }
+  .about-us .about-img .background-img {
+    width: 82%;
+    background: deepskyblue;
+    position: absolute;
+    left: 39px;
+    content: "'";
+    height: 100px;
+    top: 110px;
+    z-index: 1;
+    transform: rotate(90deg);
+  }
+  .about-us .about-caption{
+    margin-top: 380px;
   }
 }
 @media (min-width: 401px) and (max-width: 480px) {
@@ -1074,6 +1104,20 @@ textarea {
   footer .footer-social-icon{
     margin-bottom: 25px;
   }
+  .about-us .about-img .background-img {
+    width: 82%;
+    background: deepskyblue;
+    position: absolute;
+    left: 39px;
+    content: "'";
+    height: 100px;
+    top: 100px;
+    z-index: 1;
+    transform: rotate(90deg);
+  }
+  .about-us .about-caption{
+    margin-top: 350px;
+  }
 }
 @media (max-width: 400px) {
   .navbar-light .navbar-nav .nav-link{
@@ -1140,5 +1184,18 @@ textarea {
   footer .footer-social-icon{
     margin-bottom: 25px;
   }
-
+  .about-us .about-img .background-img {
+    width: 82%;
+    background: deepskyblue;
+    position: absolute;
+    left: 39px;
+    content: "'";
+    height: 100px;
+    top: 75px;
+    z-index: 1;
+    transform: rotate(90deg);
+  }
+  .about-us .about-caption{
+    margin-top: 300px;
+  }
 }
