@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="204731b1-b323-4180-927f-1f4fc74db85d" name="Default Changelist" comment="added video">
+    <list default="true" id="204731b1-b323-4180-927f-1f4fc74db85d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/css/.sass-cache/0dd5d6a154fa1e7e9065e1b3328cb6ab8041d82c/style.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/css/.sass-cache/0dd5d6a154fa1e7e9065e1b3328cb6ab8041d82c/style.scssc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/css/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/css/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/js/custom.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +23,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="SCSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -88,7 +89,8 @@
       <workItem from="1601010403546" duration="5535000" />
       <workItem from="1601017001429" duration="16769000" />
       <workItem from="1601038523319" duration="8269000" />
-      <workItem from="1601089981327" duration="13754000" />
+      <workItem from="1601089981327" duration="14003000" />
+      <workItem from="1601114869701" duration="2183000" />
     </task>
     <task id="LOCAL-00001" summary="we added nav,carousel,about and 3d products section">
       <created>1601026086883</created>
@@ -139,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601097110548</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added video and its text">
+      <created>1601114758783</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601114758783</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,7 +161,8 @@
     <MESSAGE value="first responsive try" />
     <MESSAGE value="added blog page" />
     <MESSAGE value="added video" />
-    <option name="LAST_COMMIT_MESSAGE" value="added video" />
+    <MESSAGE value="added video and its text" />
+    <option name="LAST_COMMIT_MESSAGE" value="added video and its text" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="14" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601031373394">
@@ -171,10 +181,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="430" y="219" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1601102936198" />
-    <state x="303" y="0" key="CommitChangelistDialog2" timestamp="1601114438886">
+    <state x="303" y="0" key="CommitChangelistDialog2" timestamp="1601114756824">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="303" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601114438886" />
+    <state x="303" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601114756824" />
     <state x="352" y="142" key="EditFileWatcherDialog" timestamp="1599501108819">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -183,10 +193,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599545918433" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601097114090">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601114760711">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601097114090" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601114760711" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1601112742180">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
