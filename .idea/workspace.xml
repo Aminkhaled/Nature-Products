@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="204731b1-b323-4180-927f-1f4fc74db85d" name="Default Changelist" comment="" />
+    <list default="true" id="204731b1-b323-4180-927f-1f4fc74db85d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/js/custom.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,6 +94,7 @@
       <workItem from="1601123476789" duration="1399000" />
       <workItem from="1601125087492" duration="6955000" />
       <workItem from="1601134664330" duration="1128000" />
+      <workItem from="1601136101414" duration="998000" />
     </task>
     <task id="LOCAL-00001" summary="we added nav,carousel,about and 3d products section">
       <created>1601026086883</created>
@@ -179,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601135698534</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="added loader and modified it-1">
+      <created>1601136240084</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1601136240084</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,7 +213,8 @@
     <MESSAGE value="added about-us and modifed section of about us" />
     <MESSAGE value="added loader" />
     <MESSAGE value="added loader and modified it" />
-    <option name="LAST_COMMIT_MESSAGE" value="added loader and modified it" />
+    <MESSAGE value="added loader and modified it-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="added loader and modified it-1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="14" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601031373394">
@@ -217,10 +233,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="430" y="219" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1601102936198" />
-    <state x="303" y="0" key="CommitChangelistDialog2" timestamp="1601135695088">
+    <state x="303" y="0" key="CommitChangelistDialog2" timestamp="1601136237708">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="303" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601135695088" />
+    <state x="303" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601136237708" />
     <state x="352" y="142" key="EditFileWatcherDialog" timestamp="1599501108819">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -229,10 +245,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599545918433" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601135705730">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601136243747">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601135705730" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601136243747" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1601112742180">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
