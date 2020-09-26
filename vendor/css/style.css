@@ -115,7 +115,7 @@ Carousel
       width: 40%; }
 
 .item-1 {
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.4)), url("../img/") no-repeat center center scroll; }
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.4)), url("../img/item-1.jpg") no-repeat center center scroll; }
 
 .item-2 {
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.4)), url("../img/item-2.jpg") no-repeat center center scroll; }
@@ -637,6 +637,11 @@ video {
     font-weight: 500;
     font-size: 20px; }
 
+/*
+=============
+ABout-us
+=============
+*/
 /*Media query*/
 @media (min-width: 768px) and (max-width: 999px) {
   .navbar-light .navbar-nav .nav-link {
@@ -729,7 +734,7 @@ video {
       display: none; }
 
   .testimonial-section .quote p {
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 300;
     line-height: 1.8;
     font-style: italic;
@@ -737,13 +742,13 @@ video {
 
   .testimonial .name {
     font-weight: bold;
-    font-size: 16px;
+    font-size: 14px;
     letter-spacing: 0.04em;
     line-height: 35px;
     text-align: left; }
 
   .testimonial .designation {
-    font-size: 14px;
+    font-size: 12px;
     letter-spacing: 0.04em;
     text-align: left;
     color: #fff;

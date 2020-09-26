@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="204731b1-b323-4180-927f-1f4fc74db85d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vendor/img/video-bg.mp4" afterDir="false" />
+    <list default="true" id="204731b1-b323-4180-927f-1f4fc74db85d" name="Default Changelist" comment="added video">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/css/.sass-cache/0dd5d6a154fa1e7e9065e1b3328cb6ab8041d82c/style.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/css/.sass-cache/0dd5d6a154fa1e7e9065e1b3328cb6ab8041d82c/style.scssc" afterDir="false" />
@@ -22,10 +21,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
-        <option value="HTML File" />
-        <option value="CSS File" />
         <option value="SCSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -48,8 +47,9 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/vendor/img" />
-    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -88,7 +88,7 @@
       <workItem from="1601010403546" duration="5535000" />
       <workItem from="1601017001429" duration="16769000" />
       <workItem from="1601038523319" duration="8269000" />
-      <workItem from="1601089981327" duration="6560000" />
+      <workItem from="1601089981327" duration="13754000" />
     </task>
     <task id="LOCAL-00001" summary="we added nav,carousel,about and 3d products section">
       <created>1601026086883</created>
@@ -132,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601048540464</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added video">
+      <created>1601097110548</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601097110548</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,7 +151,8 @@
     <MESSAGE value="first is done by me" />
     <MESSAGE value="first responsive try" />
     <MESSAGE value="added blog page" />
-    <option name="LAST_COMMIT_MESSAGE" value="added blog page" />
+    <MESSAGE value="added video" />
+    <option name="LAST_COMMIT_MESSAGE" value="added video" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="14" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601031373394">
@@ -155,14 +163,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="430" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1601090695792" />
-    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601032160821">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601111441424">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1601032160821" />
-    <state x="303" y="0" key="CommitChangelistDialog2" timestamp="1601048538672">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1601111441424" />
+    <state x="430" y="219" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1601102936198">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="303" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601048538672" />
+    <state x="430" y="219" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1601102936198" />
+    <state x="303" y="0" key="CommitChangelistDialog2" timestamp="1601114438886">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="303" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601114438886" />
     <state x="352" y="142" key="EditFileWatcherDialog" timestamp="1599501108819">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -171,14 +183,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599545918433" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601048542333">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601097114090">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601048542333" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1601093052306">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601097114090" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1601112742180">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1601093052306" />
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1601112742180" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1601017634419">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
