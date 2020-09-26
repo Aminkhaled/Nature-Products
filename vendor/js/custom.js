@@ -10,6 +10,7 @@ $( document ).ready(function() {
 
     setTimeout(function (){
         $('.loader').remove();
+        $('.loader').css('display','none');
     },5000)
     var galleryThumbs = new Swiper('.gallery-thumbs', {
         effect: 'coverflow',

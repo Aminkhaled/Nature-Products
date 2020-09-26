@@ -1142,6 +1142,15 @@ textarea {
   .about-us .about-caption{
     margin-top: 350px;
   }
+  .loader svg {
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    display: inline-block;
+    position: absolute;
+    left: 40%;
+    top: 250px;
+  }
 }
 @media (max-width: 400px) {
   .navbar-light .navbar-nav .nav-link{
@@ -1221,5 +1230,14 @@ textarea {
   }
   .about-us .about-caption{
     margin-top: 300px;
+  }
+  .loader svg {
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    display: inline-block;
+    position: absolute;
+    left: 40%;
+    top: 250px;
   }
 }
