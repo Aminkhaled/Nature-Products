@@ -292,8 +292,33 @@ $viewer-distance: 500px;
   }
 }
 
-
-
+/*About section*/
+.about{
+  padding: 100px;
+  .about-img{
+    width:100%;
+    img{
+      width: 100%;
+    }
+  }
+.about-caption{
+  margin: 20px 0;
+  text-align: center;
+  h1{
+    margin: 20px 0;
+  }
+  p{
+    margin: 40px 0;
+  }
+  a{
+    padding: 15px 30px;
+    color: #FFFFFF;
+    background-color: $mainColor;
+     border:1px solid $mainColor ;
+    border-radius: 30px;
+  }
+}
+}
 /*
 testomnials
 */

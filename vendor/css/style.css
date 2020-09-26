@@ -216,6 +216,27 @@ about-us
         letter-spacing: 1px;
         padding: 5px 10px; }
 
+/*About section*/
+.about {
+  padding: 100px; }
+  .about .about-img {
+    width: 100%; }
+    .about .about-img img {
+      width: 100%; }
+  .about .about-caption {
+    margin: 20px 0;
+    text-align: center; }
+    .about .about-caption h1 {
+      margin: 20px 0; }
+    .about .about-caption p {
+      margin: 40px 0; }
+    .about .about-caption a {
+      padding: 15px 30px;
+      color: #FFFFFF;
+      background-color: deepskyblue !important;
+      border: 1px solid deepskyblue !important;
+      border-radius: 30px; }
+
 /*
 testomnials
 */
