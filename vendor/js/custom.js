@@ -53,7 +53,7 @@ $( document ).ready(function() {
         }
     });
     $('.carousel').carousel({
-        interval: 800
+        interval: 2000
     })
 
 });

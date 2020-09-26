@@ -144,8 +144,9 @@ Carousel
     }
   }
 }
+
  .item-1{
-  background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.4)),url("../img/item-1.jpg") no-repeat center center scroll;
+  background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.4)),url("../img/") no-repeat center center scroll;
 
 }
  .item-2{
@@ -717,6 +718,41 @@ $color-yellow: $mainColor;
 
 
 
+
+
+/* video carousel*/
+video{
+  position: relative;
+  z-index: 0;
+  &:before {
+    content: "";
+    position: absolute;
+    left: 0; right: 0;
+    top: 0; bottom: 0;
+    background: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.8));
+  }
+}
+
+ .overlay .carousel-caption{
+   position: absolute;
+   left: 20px;
+   top: 0;
+   h2{
+     font-size: 50px;
+     color: white;
+     position: absolute;
+     font-weight: 700;
+     left: 37%;
+   }
+   p{
+     position: absolute;
+     left: 30%;
+     top: 280px;
+     width: 60%;
+     font-weight: 500;
+     font-size: 20px;
+   }
+ }
 
 /*Media query*/
 @media (min-width: 768px) and (max-width: 999px){
