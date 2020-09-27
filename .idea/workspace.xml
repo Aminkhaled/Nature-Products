@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="204731b1-b323-4180-927f-1f4fc74db85d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/blog-post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/css/.sass-cache/0dd5d6a154fa1e7e9065e1b3328cb6ab8041d82c/style.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/css/.sass-cache/0dd5d6a154fa1e7e9065e1b3328cb6ab8041d82c/style.scssc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/css/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/css/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +101,8 @@
       <workItem from="1601136101414" duration="1366000" />
       <workItem from="1601203434010" duration="412000" />
       <workItem from="1601203996185" duration="33000" />
-      <workItem from="1601204180080" duration="1107000" />
+      <workItem from="1601204180080" duration="1771000" />
+      <workItem from="1601209338804" duration="8076000" />
     </task>
     <task id="LOCAL-00001" summary="we added nav,carousel,about and 3d products section">
       <created>1601026086883</created>
@@ -202,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601137170967</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="modified button padding">
+      <created>1601205519855</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1601205519855</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,7 +237,8 @@
     <MESSAGE value="added loader and modified it" />
     <MESSAGE value="added loader and modified it-1" />
     <MESSAGE value="added loader and modified it 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="added loader and modified it 2" />
+    <MESSAGE value="modified button padding" />
+    <option name="LAST_COMMIT_MESSAGE" value="modified button padding" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="14" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601031373394">
@@ -242,10 +257,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="430" y="219" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1601102936198" />
-    <state x="303" y="0" key="CommitChangelistDialog2" timestamp="1601137169154">
+    <state x="303" y="0" key="CommitChangelistDialog2" timestamp="1601205511111">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="303" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601137169154" />
+    <state x="303" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601205511111" />
     <state x="352" y="142" key="EditFileWatcherDialog" timestamp="1599501108819">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -254,10 +269,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599545918433" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601137173654">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601205566008">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601137173654" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601205566008" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1601112742180">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
